@@ -1,0 +1,2 @@
+This is a basic structured online locker.It is basically designed to store all that sensitive content online which you would not like to store on your personal devices,all data protected by multiple levels of security.OTP(One Time Password) is the strongest security layer.
+For this to work,in MySQL there needs to be a database named "prakhar" containing a table named as "table3" and another database called "notes"
